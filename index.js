@@ -9,3 +9,5 @@ function printOddandEven(numbers){
         }
      }
 }
+
+printOddandEven(numbers);
